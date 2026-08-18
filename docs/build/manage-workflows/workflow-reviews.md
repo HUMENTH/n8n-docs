@@ -45,7 +45,7 @@ Open **Reviews** in the left sidebar to find open and closed review requests you
 
 Instance admins enable workflow reviews for the whole instance in **Settings** > **Security & policies**, under **Workflow reviews**. When the setting is off, review UI and APIs aren't available. Turning the feature off later removes access to reviews on the instance.
 
-For more about instance security policies, refer to [Manage security policies](../../deploy/host-n8n/configure-n8n/security/manage-security-policies.md).
+For more about instance security policies, refer to [Manage security policies](https://app.gitbook.com/s/jm0ZYRpZIPWge2ZSiDYO/host-n8n/configure-n8n/security/manage-security-policies).
 
 ## Submit or update a review
 
@@ -71,7 +71,7 @@ This preference is stored in your browser for that workflow. It isn't a shared p
 A review detail has two tabs:
 
 * **Activity**: description, activity feed, and comments. People who can open the review can comment. Comments stay visible after the review closes. Comments aren't anchored to a specific node in this release.
-* **Changes**: a visual workflow diff between the currently **Published** version and the version **In review**. The diff works like [workflow diffs for source control](../../administer/use-source-control-and-environments/compare-versions.md).
+* **Changes**: a visual workflow diff between the currently **Published** version and the version **In review**. The diff works like [workflow diffs for source control](https://app.gitbook.com/s/wMJrGrimpx3PxCJpUswm/use-source-control-and-environments/compare-versions).
 
 Then the assigned reviewer, or a project admin or instance admin, can choose:
 
@@ -97,6 +97,6 @@ Authors are people who submitted the review or later submitted newer versions to
 
 * [Save and publish workflows](../understand-workflows/save-and-publish-workflows.md)
 * [View change history](view-change-history.md)
-* [Compare changes with workflow diffs](../../administer/use-source-control-and-environments/compare-versions.md)
-* [Manage security policies](../../deploy/host-n8n/configure-n8n/security/manage-security-policies.md)
-* [See available roles](../../administer/manage-users-and-access/set-permissions-and-roles-rbac/see-available-roles.md)
+* [Compare changes with workflow diffs](https://app.gitbook.com/s/wMJrGrimpx3PxCJpUswm/use-source-control-and-environments/compare-versions)
+* [Manage security policies](https://app.gitbook.com/s/jm0ZYRpZIPWge2ZSiDYO/host-n8n/configure-n8n/security/manage-security-policies)
+* [See available roles](https://app.gitbook.com/s/wMJrGrimpx3PxCJpUswm/manage-users-and-access/set-permissions-and-roles-rbac/see-available-roles)
